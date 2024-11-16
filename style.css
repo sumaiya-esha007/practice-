@@ -1,0 +1,14 @@
+.slider-height{
+    height: 550px;
+}
+
+.my-caption{
+    /*margin-bottom: ;*/
+    bottom: 40%;
+    background-color: rgba(0,0,0,.4);
+    padding: 40px 25px;
+
+}
+.img-height{
+   height: 350px;
+}
